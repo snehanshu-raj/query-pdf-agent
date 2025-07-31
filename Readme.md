@@ -81,7 +81,7 @@ pdf-query-agent/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/snehanshu-raj/query-pdf-agent.git
 cd pdf-query-agent
 ```
 
